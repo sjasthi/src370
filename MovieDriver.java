@@ -12,6 +12,19 @@ public class MovieDriver {
 
 	}
 
+
+	/**
+	* This method deletes a movie based on the movie id
+	* Returns true if the operation is successful.
+	* Returns false if there is any issue
+	 */
+
+	public boolean deleteMovieById(int movie_id)
+	{
+
+	}
+
+
 	public static void main(String[] args) {
 		
 		try {
