@@ -3,6 +3,15 @@ import java.sql.*;
 
 public class MovieDriver {
 
+	/**
+	* This method retrieves the movie details given a movie id
+	 */
+
+	public Movie getMovieInfo(int movie_id)
+	{
+
+	}
+
 	public static void main(String[] args) {
 		
 		try {
