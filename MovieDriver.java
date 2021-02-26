@@ -12,6 +12,10 @@ public class MovieDriver {
 
 	}
 
+    public updateMovie(int movie_id, String title, String native_name)
+	{
+		
+	}
 
 	/**
 	* This method deletes a movie based on the movie id

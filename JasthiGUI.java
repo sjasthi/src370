@@ -2,7 +2,7 @@
  * Java Classes:  Variable and Jasthi
  * File Name: JasthiGUI.java
  * Author: Siva Jasthi
- * Date: 10/15/2003
+ * Date: 10/15/2003 (Version 1.0)
  * Purpose: A program to generate the java code for simple java classes given an input file
  *          JasthiGUI in turn makes use of two more classes called Jasthi.java and Variable.java
  */
